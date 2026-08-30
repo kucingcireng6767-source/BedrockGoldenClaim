@@ -1,0 +1,5 @@
+name: BedrockGoldenClaim
+version: 1.0.0
+main: BedrockClaim\Main
+api: 5.0.0
+description: Plugin claim lahan diagonal sekop emas khusus Bedrock PocketMine.
